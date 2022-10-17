@@ -1,0 +1,17 @@
+CMakeFiles/
+Makefile
+moodvie
+CMakeCache.txt
+cmake_install.cmake
+lib/
+bin/
+test
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vs
+Debug/*.exe
+Debug/*.pdb
+/x64
+*.dir/
