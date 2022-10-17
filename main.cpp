@@ -22,7 +22,7 @@ void displaySortMenu()
     cout << "3. Sort by Rating (G, PG, PG-13, R, NC-17)." << endl << endl;
 }
 
-void displayMoodMenu()s
+void displayMoodMenu()
 {
     cout << endl << "Enter your mood:" << endl;
     cout << "1. Happy." << endl;
